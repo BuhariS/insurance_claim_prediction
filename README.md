@@ -1,7 +1,7 @@
 <h1 align=center style="color:#000080;">The Secret to Reducing Health Care Costs: Predicting Health Insurance Claims with Artificial Intelligence</h1>
 <h3 align=center style="color:#b30000;"> By Buhari Shehu</h3>
 
-<img src="health_insurance.png" alt="insurance_claim_-image" style="width:800px;height:300px;">
+<img src="health_insurance.png" alt="insurance_claim_-image" style="width:800px;height:500px;">
 
 ## Introduction
 Insurance companies collect premiums from policyholders to cover the cost of claims and make profits. The companies may need more money to cover all of the claims that are filed if they fail to predict the cost of claims accurately. This can lead to financial losses for the insurance company, and it can also lead to policyholders being underinsured. Insurance claim analysis and prediction can also help insurance companies segment policyholders based on risk level, customise marketing strategies, enhance customer satisfaction and prevent fraud.
